@@ -13,6 +13,7 @@ function EmbeddedVideo({ url }) {
                 frameBorder="0"
                 height="100%"
                 src={url}
+                title="Youtube Video"
                 width="100%"
             />
         </div>
