@@ -2,10 +2,10 @@
 import React from 'react';
 
 // @components
-import Layout from '../../components/layout/layout';
-import SEO from '../../components/seo/seo';
-import Greet from '../../components/greet/greet';
-import EmbeddedVideo from '../../components/embedded-video/embedded-video';
+import Layout from '../components/layout/layout';
+import SEO from '../components/seo/seo';
+import Greet from '../components/greet/greet';
+import EmbeddedVideo from '../components/embedded-video/embedded-video';
 
 const IndexPage = () => (
     <Layout>
